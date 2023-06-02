@@ -12,7 +12,7 @@ while True:
     else:
         afk_counter = 0
         curr_coords = pag.position()
-    if afk_counter > 5:
+    if afk_counter > 6:
         x = random.randint(0, 1920)
         y = random.randint(0, 1080)
         pag.moveTo(x, y, duration=0.5)
