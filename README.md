@@ -1,1 +1,1 @@
-Script to move coursor around the screen after 6 idle seconds.
+Small Python script to move coursor around the screen after 6 idle seconds.
